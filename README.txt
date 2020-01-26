@@ -1,6 +1,5 @@
 Name: Ibrahim Ahmed
-netID: ia903
-ID: 12186358
+
 
 						    Lab3 - Banker
 
