@@ -1,7 +1,7 @@
 Name: Ibrahim Ahmed
 
 
-						    Lab3 - Banker
+						    Lab - Banker
 
 Compile the program running:
 
